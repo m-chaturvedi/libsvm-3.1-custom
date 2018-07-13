@@ -1,0 +1,9 @@
+eval.o
+svm.o
+libsvm.so.2
+binary-predict
+binary-train
+svm-predict                                                                  
+svm-prob
+svm-scale
+svm-train
